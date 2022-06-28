@@ -1,5 +1,5 @@
 
-  <h1 align="center">Taskmaster-Pro (Amys Tasks) </h1>
+  <h1 align="center">Taskmaster-Pro (Dadddy zthor) </h1>
   
 ![badge](https://img.shields.io/badge/license-ISC-brightgreen)<br />
 ## Description
