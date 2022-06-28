@@ -13,7 +13,7 @@
 - [Test](#test)
 - [Questions](#questions)
 ## Installation
- Follow deployed Heroku link : https://amystasks.herokuapp.com/
+ Follow deployed Heroku link : https://daddythor.herokuapp.com/
 ## Usage
  To add Task click 'Add Task', to delete Task's drag them to the bottom of the app or Press 'delete all tasks'
 ## License
